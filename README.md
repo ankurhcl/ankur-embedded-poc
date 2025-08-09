@@ -2,8 +2,8 @@
 
 **Author:** Ankur Rastogi  
 **Email:** arlinuxiot2020@gmail.com  
-**LinkedIn:** [linkedin.com/in/ankur-embedded-Consultant](https://www.linkedin.com/in/a-r-69ab381a9/)  
-**GitHub:** [ankurhcl](https://github.com/ankurhcl)  
+**LinkedIn:** [linkedin.com/in/AnkurEmb.Consultant](https://www.linkedin.com/in/a-r-69ab381a9/)  
+**GitHub:** [AnkurEmb.Consultant](https://github.com/ankurhcl)  
 
 ---
 
